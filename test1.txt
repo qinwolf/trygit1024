@@ -2,3 +2,5 @@ fastbook==0.0.18
 voila==0.2.16
 
 git@github.com:qinwolf/githubtest1023.git
+
+https://github.com/qinwolf/githubtest1023.git
